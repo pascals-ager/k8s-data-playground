@@ -1,0 +1,3 @@
+[debug] "not up to date. inChanged = true, force = false
+[debug] Updating ProjectRef(uri("file:/home/pascals/k8s-data-playground/connector/"), "akkaMongo")...
+[debug] Done updating ProjectRef(uri("file:/home/pascals/k8s-data-playground/connector/"), "akkaMongo")

@@ -1,0 +1,35 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /home/pascals/k8s-data-playground/connector/target/scala-2.12/monixkafka_2.12-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ChangeStream.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/pascals/k8s-data-playground/connector/target/scala-2.12/classes/ChangeStream.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	client[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/pascals/k8s-data-playground/connector/target/scala-2.12/classes/client[0m
+[0m[[0m[0mdebug[0m] [0m[0m	client/mongo[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/pascals/k8s-data-playground/connector/target/scala-2.12/classes/client/mongo[0m
+[0m[[0m[0mdebug[0m] [0m[0m	client/mongo/MongoTypedConnection$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/pascals/k8s-data-playground/connector/target/scala-2.12/classes/client/mongo/MongoTypedConnection$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	client/mongo/Implicits.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/pascals/k8s-data-playground/connector/target/scala-2.12/classes/client/mongo/Implicits.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	client/mongo/Implicits$ObservableToPublisher.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/pascals/k8s-data-playground/connector/target/scala-2.12/classes/client/mongo/Implicits$ObservableToPublisher.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	client/mongo/Implicits$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/pascals/k8s-data-playground/connector/target/scala-2.12/classes/client/mongo/Implicits$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	client/mongo/MongoTypedConnection$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/pascals/k8s-data-playground/connector/target/scala-2.12/classes/client/mongo/MongoTypedConnection$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	client/mongo/Implicits$ObservableToPublisher$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/pascals/k8s-data-playground/connector/target/scala-2.12/classes/client/mongo/Implicits$ObservableToPublisher$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	client/mongo/Implicits$ObservableToPublisher$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/pascals/k8s-data-playground/connector/target/scala-2.12/classes/client/mongo/Implicits$ObservableToPublisher$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	client/mongo/MongoTypedConnection.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/pascals/k8s-data-playground/connector/target/scala-2.12/classes/client/mongo/MongoTypedConnection.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	client/mongo/Implicits$ObservableToPublisher$$anon$1$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/pascals/k8s-data-playground/connector/target/scala-2.12/classes/client/mongo/Implicits$ObservableToPublisher$$anon$1$$anon$2.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ChangeStream$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/pascals/k8s-data-playground/connector/target/scala-2.12/classes/ChangeStream$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	model[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/pascals/k8s-data-playground/connector/target/scala-2.12/classes/model[0m
+[0m[[0m[0mdebug[0m] [0m[0m	model/Orders.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/pascals/k8s-data-playground/connector/target/scala-2.12/classes/model/Orders.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	model/Orders$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /home/pascals/k8s-data-playground/connector/target/scala-2.12/classes/model/Orders$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m

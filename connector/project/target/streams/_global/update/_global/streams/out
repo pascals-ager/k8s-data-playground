@@ -1,0 +1,4 @@
+[debug] "not up to date. inChanged = true, force = false
+[debug] Updating ProjectRef(uri("file:/home/pascals/k8s-data-playground/connector/project/"), "connector-build")...
+[debug] Done updating ProjectRef(uri("file:/home/pascals/k8s-data-playground/connector/project/"), "connector-build")
+[warn] There may be incompatibilities among your library dependencies; run 'evicted' to see detailed eviction warnings.
